@@ -1,0 +1,13 @@
+.nextButton{
+    background-color: #3B5249;
+    color: white;
+    letter-spacing: .07em;
+}
+.previousButton{
+    background-color: #3B5249;
+    color: white;
+    letter-spacing: .06em;
+}
+.completeButton{
+    background-color: #8AEA92;
+}

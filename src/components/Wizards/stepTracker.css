@@ -1,0 +1,47 @@
+.step-tracker-container{
+    width:100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.step-tracker-header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 90%;
+    margin: 2px;
+    
+ 
+}
+.step-tracker-header p{
+    font-size: 1.8em;
+    font-weight: bold;
+}
+.cancel-button{
+    padding: 8px;
+    font-size: 1.2em;
+    font-weight: bold;
+    background-color: #FEC2C2
+    
+}
+.step-tracker-div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-top: 1px solid black;
+    width: 94%;
+  
+}
+.step-tracker-div p{
+    font-size: 1.8em;
+    margin-top: 20px;
+}
+.step-icons{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 80%;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
